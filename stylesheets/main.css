@@ -1,0 +1,21 @@
+body{
+	background:black;
+}
+h1{
+	color: blue;
+	text-align: center;
+}
+
+.cook{
+	color: red;
+	font-size: 20px;
+	border: dotted red 2px;
+}
+img{
+	width:400px;
+	height:400px;
+}
+.after{
+	color: green;
+	font-size:20px;	
+}

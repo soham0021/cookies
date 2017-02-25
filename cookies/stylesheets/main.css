@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+h1{
+	color: blue;
+}
+img  {
+	height: 250px;
+	width: 250px
+
+}
+.choco-chip{
+	display: inline;
+	float: left;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.double-choco-chip{
+	display: inline;
+	float: middle;
+	margin: 0 auto;
+	text-align: center; 
+}
+.suger-chip{
+	display: inline;
+	float: right;
+	text-align: center;
+	margin: 0 auto;
+}
+.total-cookies{
+	color: blue;
+}
+.clear-cookies{
+	width: 50px;
+	height:50px;
+	background-color: red;
+}
